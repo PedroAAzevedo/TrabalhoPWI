@@ -1,0 +1,28 @@
+img {
+    padding-top: 20px;
+    padding-right: 80px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+.padding {
+    padding-top: 20px;
+    padding-right: 80px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+.fundo {
+    background-color: #151515;
+}
+
+.padding2 {
+    padding-top: 80px;
+    padding-bottom: 20px;
+}
+
+.padding3 {
+    padding-top: 20px;
+    padding-right: 80px;
+    padding-left: 80px;
+}
